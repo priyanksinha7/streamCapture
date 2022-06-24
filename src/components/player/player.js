@@ -10,6 +10,7 @@ function Player()
      <u>  <h2>
             PLAYER
         </h2></u> 
+         <hr></hr>
         <iframe width="520" height="375" title="myFrame"  id="myframe" src={url}>
         </iframe>
         <Row>
